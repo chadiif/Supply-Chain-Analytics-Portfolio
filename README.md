@@ -1,18 +1,11 @@
-# Supply-Chain-Analytics-Portfolio
-Logistics performance analysis using SQL and Power BI to evaluate late delivery risks.
-# 🚚 Global Supply Chain & Late Delivery Analysis
+# Global Supply Chain & Late Delivery Performance Analysis
 
-## 📌 Business Overview
-This project investigates carrier performance, delivery delays, and shipping bottlenecks across 180,000+ global supply chain transactions using SQL and Power BI.
+## Executive Dashboard
+![Dashboard Overview](your_screenshot_name_1.png)
+![Detailed Analysis](your_screenshot_name_2.png)
 
-## 🛠️ Tech Stack & Skills
-* **Database / Querying:** SQL (DB Browser for SQLite)
-* **Data Visualization:** Power BI Desktop
-* **Key Metrics:** OTIF (On-Time In-Full) Rate, Late Delivery Risk %, Order Volume
+## Business Problem & SQL Analysis
+Analyzed 180,000+ supply chain transactions using SQL to identify carrier bottlenecks and delivery risks.
 
-## 🔍 Key Business Insights
-* **Primary Bottleneck:** Standard Class shipping accounts for the majority of late order volumes due to high order concentration.
-* **High-Risk Carrier Mode:** First Class shipments showed high failure rates relative to premium cost expectations.
-
-## 📊 Live Dashboard
-👉 [Click here to view the Interactive Power BI Dashboard on NovyPro](https://www.novypro.com/p/yourname)
+### Key Finding:
+* Standard Class shipping handles the bulk of order volume but accounts for the largest share of late delivery risks.
