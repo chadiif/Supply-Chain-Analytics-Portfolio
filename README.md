@@ -1,8 +1,8 @@
 # Global Supply Chain & Late Delivery Performance Analysis
 
 ## Executive Dashboard
-![Dashboard Overview](your_screenshot_name_1.png)
-![Detailed Analysis](your_screenshot_name_2.png)
+![Dashboard Overview](dashboard.png)
+![Detailed Analysis](query.png)
 
 ## Business Problem & SQL Analysis
 Analyzed 180,000+ supply chain transactions using SQL to identify carrier bottlenecks and delivery risks.
